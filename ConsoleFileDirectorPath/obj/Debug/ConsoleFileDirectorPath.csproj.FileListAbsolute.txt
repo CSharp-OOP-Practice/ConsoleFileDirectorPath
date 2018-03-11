@@ -1,0 +1,9 @@
+E:\C#\ConsoleFileDirectorPath\ConsoleFileDirectorPath\bin\Debug\ConsoleFileDirectorPath.exe.config
+E:\C#\ConsoleFileDirectorPath\ConsoleFileDirectorPath\bin\Debug\ConsoleFileDirectorPath.exe
+E:\C#\ConsoleFileDirectorPath\ConsoleFileDirectorPath\bin\Debug\ConsoleFileDirectorPath.pdb
+E:\C#\ConsoleFileDirectorPath\ConsoleFileDirectorPath\obj\Debug\ConsoleFileDirectorPath.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleFileDirectorPath\ConsoleFileDirectorPath\obj\Debug\ConsoleFileDirectorPath.exe
+E:\C#\ConsoleFileDirectorPath\ConsoleFileDirectorPath\obj\Debug\ConsoleFileDirectorPath.pdb
+E:\C#\課程OOP\ConsoleFileDirectorPath\ConsoleFileDirectorPath\bin\Debug\ConsoleFileDirectorPath.exe.config
+E:\C#\課程OOP\ConsoleFileDirectorPath\ConsoleFileDirectorPath\obj\Debug\ConsoleFileDirectorPath.exe
+E:\C#\課程OOP\ConsoleFileDirectorPath\ConsoleFileDirectorPath\obj\Debug\ConsoleFileDirectorPath.pdb
